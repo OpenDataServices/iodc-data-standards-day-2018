@@ -74,6 +74,6 @@ This pre-event is organised by [Open Data Services Co-operative](http://www.open
 
 ## Code of Conduct
 
-This event takes place under the [IODC Code of Conduct](https://www.opendatacon.org/#/conduct). Please read this in advance and 
+This event takes place under the [IODC Code of Conduct](https://www.opendatacon.org/#/conduct). 
 
 

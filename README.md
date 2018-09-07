@@ -31,18 +31,23 @@ This will be an interactive one day workshop targeted at practitioners creating 
 A series of quick-fire keynote inputs sharing the latest work on open data standards and infrastructure, and building a shared understanding of the standards landscape, with:
 
 * **Leigh Dodds** ([Open Data Institute](http://www.theodi.org)) - talking about the ODI [Open Standards for Data guide](http://standards.theodi.org)
-* **Natalia Carfi** ([Open Data Charter](http://www.opendatacharter.org)) - sharing learning from applying the Open Up guide to anti-corruption in Mexico, and the gaps in availability of open data standards.
-* **tbc** ([Open Data Watch](http://www.opendatawatch.com)) - talking about standardisation in official statistical systems
+* **Liz Carolan** ([Open Data Charter](http://www.opendatacharter.org)) - sharing learning from applying the Open Up guide to anti-corruption in Mexico, and the gaps in availability of open data standards.
+* **Jamison Crowell** ([Open Data Watch](http://www.opendatawatch.com)) - talking about standardisation in official statistical systems
 * **Sander van der Waal** ([Open Knowledge](http://www.okfn.org)) - talking about the frictionless data project
 * **Eric Reese** ([GovEx](https://govex.jhu.edu/)) - sharing updates on the [DataStandards.directory](http://DataStandards.directory)) project
 
 followed by a facilitated panel discussion on the state of open data standards. 
 
-### Mapping the standards landscape (11:00 - 13:00)
+### Mapping the standards landscape (11:00 - 12:00)
 
-In this interactive session we’ll be identifying existing standards, and standards gaps - and identifying the actors and actions that could improve the discovery, creation, adoption and governance of open standards for data.
+In this interactive session we’ll be identifying existing standards, and standards gaps - and identifying the actors and actions that could improve the 
+discovery, creation, adoption and governance of open standards for data.
 
-### Working sessions (14:30 - 17:00)
+### Areas for action (12:00 - 13:00)
+
+Hear pitches on the areas in need of action, and join break-out groups to develop an agenda for the afternoon, and for longer term activities to improve open data standards and interoperability. 
+
+### Working sessions (14:00 - 17:00)
 
 The afternoon is given over to working sessions for data standard projects to consult on their development, and make progress on the usability and interoperability of standards.
 

@@ -10,8 +10,6 @@ If you are working on bringing interoperability to open data through standards, 
 
 Data Standards Day will include keynote talks, interactive discussions, a poster session and afternoon workspace for in-depth and open space co-working on the details of joined up open data standards. 
 
-**If you have a standard (or standards related project) you would like to showcase** then prepare a poster about it. We will full-colour print the first 10 A2-sized posters we receive from registered participants. Find the [poster template here](https://docs.google.com/presentation/d/1WFSq1_n5DNxHXiA2ZOcBbYKMUmnGLIAREmJNYaX27s0/copy).
-
 **If you want to discuss the details of your standards work with peers from around the world** you can propose a working session. Open a [GitHub issue with your proposal](https://github.com/OpenDataServices/iodc-data-standards-day-2018/issues/new?title=Working%20Session%20Proposal:%20[Add%20title%20here]).
 
 ## Background
